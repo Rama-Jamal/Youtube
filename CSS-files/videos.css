@@ -22,6 +22,20 @@
   }
 }
 */
+@media (max-width: 768px) {
+  /* Adjust the layout for screens with a maximum width of 768px */
+  .sidebar {
+    flex-direction: column; /* Stack sidebar links */
+  }
+  .search-bar {
+    width: 100%; /* Expand the search bar */
+    margin: 10px 0; /* Add some spacing */
+  }
+  .search-button, .voice-button {
+    display: block; /* Stack search and voice buttons */
+    margin: 10px 0; /* Add spacing between buttons */
+  }
+}
 .video-pic{
   width: 100%;
   margin-bottom: 7px;
