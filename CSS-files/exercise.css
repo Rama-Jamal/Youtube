@@ -1,0 +1,28 @@
+.box1{
+  width: 200px;
+  display: inline-block;
+}
+.video-picture{
+  width: 200px;
+}
+.profile-picture{
+  width: 50px;
+  display: inline-block;
+}
+.channel-pic{
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+}
+.video-para{
+  display: inline-block;
+  width: 140px;
+  margin-top: 0;
+  vertical-align: top;
+}
+.video-parag{
+  display: inline-block;
+  width: 140px;
+  margin-top: 0;
+  vertical-align: top;
+}
